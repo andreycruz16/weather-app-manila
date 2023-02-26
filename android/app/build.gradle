@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.rn_awesomeproject"
+    namespace "com.weatherappone.ikigaiapps"
     defaultConfig {
-        applicationId "com.rn_awesomeproject"
+        applicationId "com.weatherappone.ikigaiapps"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
